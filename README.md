@@ -1,4 +1,6 @@
-## **README.md - Buscador de Atletas Olímpicos**
+## **Imersão Dev Com Google Gemini**
+## **Imersão realizada pela Alura**
+## **Buscador de Atletas Olímpicos**
 
 ### **Sobre o Projeto**
 
