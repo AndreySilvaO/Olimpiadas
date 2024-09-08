@@ -1,5 +1,5 @@
-## **Imersão Dev Com Google Gemini**
-## **Imersão realizada pela Alura**
+## **Imersão Dev Com Google Gemini - Realizada pela Alura**
+
 ## **Buscador de Atletas Olímpicos**
 
 ### **Sobre o Projeto**
